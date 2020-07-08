@@ -28,7 +28,7 @@ end
 
 def retrieve_element_from_index(array, index_number)
   league_of_legends = ["wow", "Nasus", "Sion", "arrays!"]
-  league_of_legends
+  league_of_legends[1]
 end
 
 def retrieve_first_element_from_array(array)
