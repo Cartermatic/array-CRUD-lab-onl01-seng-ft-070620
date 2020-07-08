@@ -27,7 +27,8 @@ def remove_element_from_start_of_array(array)
 end
 
 def retrieve_element_from_index(array, index_number)
-  
+  league_of_legends = ["wow", "Nasus", "Sion", "arrays!"]
+  league_of_legends
 end
 
 def retrieve_first_element_from_array(array)
