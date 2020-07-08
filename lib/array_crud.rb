@@ -22,7 +22,7 @@ def remove_element_from_end_of_array(array)
 end
 
 def remove_element_from_start_of_array(array)
-  league_of_legends = ["Sona", "Nasus", "Sion", "arrays!"]
+  league_of_legends = ["wow", "Nasus", "Sion", "arrays!"]
   league_of_legends.shift
 end
 
