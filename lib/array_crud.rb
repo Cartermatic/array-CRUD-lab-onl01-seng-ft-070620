@@ -37,5 +37,6 @@ def retrieve_first_element_from_array(array)
 end
 
 def retrieve_last_element_from_array(array)
-  
+  league_of_legends = ["wow", "am", "Sion", "arrays!"]
+  league_of_legends.last
 end
